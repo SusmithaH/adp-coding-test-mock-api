@@ -1,0 +1,33 @@
+[
+    {
+        "id": "TASK_1ER9",
+        "title": "Approve Federal Documents",
+        "description": "Due 08/24/22",
+        "status": "AWAITING_APPROVAL"
+    },
+    {
+        "id": "TASK_2ER9",
+        "title": "Approve Bank documents",
+        "description": "Due 08/24/22",
+        "status": "AWAITING_APPROVAL"
+    },
+    {
+        "id": "TASK_3ER9",
+        "title": "Approve State Income Documents",
+        "description": "Due 08/24/22",
+        "status": "COMPLETED"
+    },
+    {
+        "id": "TASK_4ER9",
+        "title": "Approve YTD Balance files",
+        "description": "Due 08/24/22",
+        "status": "AWAITING_APPROVAL"
+    },
+    
+    {
+        "id": "TASK_5ER9",
+        "title": "Approve Employee Data Files",
+        "description": "Due 08/24/22",
+        "status": "REJECTED"
+    }
+]
