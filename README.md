@@ -7,6 +7,8 @@ Requirements:
 2. Sort the tasks and ensure that 'AWAITING_APPROVAL' tasks are shown first
 3. Upon approval or rejection of the task, update the store
 
+![coding_intervie](https://github.com/SusmithaH/adp-coding-test-mock-api/assets/156953431/caf3d6e9-139d-45de-94d9-378a20d7c8b5)
+
 Note: You don't have to create any new components as they are ready out of the box. Please refer to the components section below to lear about their usage. 
 
 ## Test Environment Setup
